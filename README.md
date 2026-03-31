@@ -6,7 +6,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Spicetify](https://img.shields.io/badge/Spicetify-Extension-1DB954?logo=spotify&logoColor=white)](https://spicetify.app)
-[![GitHub release](https://img.shields.io/github/v/release/Jyzhdev/spicetify-russian-romanizer?include_prereleases)](https://github.com/Jyzhdev/spicetify-russian-romanizer/releases)
 
 </div>
 
