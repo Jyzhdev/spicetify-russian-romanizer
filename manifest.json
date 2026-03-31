@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Russian Lyrics Romanizer",
+    "description": "Romanizes Russian Cyrillic lyrics into phonetic English (romanization) so you can sing along without knowing Cyrillic. Features a handy topbar toggle button to switch on/off instantly.",
+    "main": "russian-romanizer.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "Jyzhdev",
+        "url": "https://github.com/Jyzhdev"
+      }
+    ],
+    "tags": ["lyrics", "russian", "romanization", "cyrillic", "language", "translation"]
+  }
+]
