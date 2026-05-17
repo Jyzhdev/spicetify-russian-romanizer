@@ -7,6 +7,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Spicetify](https://img.shields.io/badge/Spicetify-Extension-1DB954?logo=spotify&logoColor=white)](https://spicetify.app)
 
+<br>
+<img src="hero.png" width="800">
+
 </div>
 
 ---
